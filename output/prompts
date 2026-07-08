@@ -1,1 +1,244 @@
+# Prompts Utilizados no Projeto
 
+Este arquivo reúne os principais prompts utilizados no desenvolvimento do e-book **AI-lucination: Between Answers and Illusions**.
+
+O projeto foi criado com apoio de Inteligência Artificial, utilizando prompts com contexto, regras de escrita, restrições e ajustes iterativos para gerar o título, a estrutura, os capítulos, revisões e a capa do e-book.
+
+---
+
+## Prompt 01 — Criação do título
+
+```text
+Create title ideas for a short ebook about Artificial Intelligence, focusing on AI hallucinations.
+
+Context:
+The ebook should explain how AI can generate false, inaccurate, or invented information that still sounds convincing.
+
+Rules:
+- The title must be in English.
+- It should be short, creative, and memorable.
+- It should have a modern and technological feeling.
+- It can use a wordplay between “AI” and “hallucination”.
+- Avoid titles that are too long, too generic, or too academic.
+- The title should work well for a technology ebook.
+
+Give me several title options and briefly explain which one is the strongest.
+```
+
+---
+
+## Prompt 02 — Estrutura do e-book
+
+```text
+Create a simple structure for a short ebook titled “AI-lucination: Between Answers and Illusions”.
+
+Context:
+The ebook is about AI hallucinations, how they happen, why they can be misleading, and how users can deal with them responsibly.
+
+Rules:
+- The ebook must be short and direct.
+- Use only a few chapters.
+- Each chapter should have internal subtitles.
+- The structure should have a clear progression: introduction of the concept, explanation of the problem, and practical conclusion.
+- The language should be simple and accessible.
+- The tone should be educational, but not too formal.
+- Avoid making the ebook too long or too technical.
+- Avoid repeating the same topic in different chapters.
+
+Create a clear chapter structure with chapter titles and a short explanation of each one.
+```
+
+---
+
+## Prompt 03 — Regras gerais de escrita
+
+```text
+Write the ebook content following these rules:
+
+Good practices:
+- Explain everything in simple words.
+- Keep the text clear and accessible.
+- Use practical examples.
+- Use short paragraphs.
+- Keep the tone light, educational, and easy to understand.
+- Make the content useful for beginners.
+- Organize the text with chapter titles and subtitles.
+- Keep the content focused on AI hallucinations, critical thinking, and responsible AI use.
+
+Avoid:
+- Overly technical explanations.
+- Very long paragraphs.
+- Generic text without examples.
+- Repeating the same idea too many times.
+- Making the ebook look like a complex academic paper.
+- Using difficult vocabulary without explanation.
+- Creating chapters that are too long for a small ebook project.
+
+The final text should feel like a short, modern, and beginner-friendly ebook.
+```
+
+---
+
+## Prompt 04 — Capítulo 1
+
+```text
+Write Chapter 1 of the ebook “AI-lucination: Between Answers and Illusions”.
+
+Chapter title:
+“What Is an AI Hallucination?”
+
+Goal:
+Explain what an AI hallucination is in a simple and accessible way.
+
+Rules:
+- Write in English.
+- Use simple language.
+- Keep the text clear and direct.
+- Divide the chapter into subtitles.
+- Explain that an AI hallucination happens when AI gives false, inaccurate, or invented information that sounds correct.
+- Include practical examples, such as fake books, fake quotes, fake sources, and invented facts.
+- Explain why these hallucinations can be confusing.
+- Show that an answer can be well-written and still be wrong.
+- Avoid making the chapter too technical.
+- Avoid making the text too long or repetitive.
+
+The chapter should introduce the concept and help the reader understand why a convincing AI answer is not always a true answer.
+```
+
+---
+
+## Prompt 05 — Capítulo 2
+
+```text
+Write Chapter 2 of the ebook “AI-lucination: Between Answers and Illusions”.
+
+Chapter title:
+“Behind the Illusion”
+
+Goal:
+Explain why AI hallucinations happen, without making the text too technical.
+
+Rules:
+- Write in English.
+- Use simple and clear language.
+- Divide the chapter into subtitles.
+- Explain that AI does not think like a human.
+- Explain that AI generates responses based on patterns, probabilities, and context.
+- Mention the idea of predicting words.
+- Explain how AI can fill gaps with information that sounds reasonable but may be false.
+- Show how fake sources, fake quotes, and fake explanations can look real because they follow the “shape” of truth.
+- Mention that specific questions can be riskier when the AI does not have reliable information.
+- Avoid repeating too much from Chapter 1.
+- Avoid overly technical explanations about machine learning.
+
+The chapter should help the reader understand what happens behind the illusion of an intelligent answer.
+```
+
+---
+
+## Prompt 06 — Capítulo 3
+
+```text
+Write Chapter 3 of the ebook “AI-lucination: Between Answers and Illusions”.
+
+Chapter title:
+“Using AI Without Getting Lost”
+
+Goal:
+Create a final chapter that teaches how to use AI with more awareness and critical thinking.
+
+Rules:
+- Write in English.
+- Use simple and practical language.
+- Divide the chapter into subtitles.
+- Explain that AI can be useful, but should not be treated as a perfect source of truth.
+- Give practical tips to reduce the risk of being fooled by AI hallucinations.
+- Mention the importance of checking sources.
+- Explain how better questions can lead to better answers.
+- Show the difference between using AI for creativity and using AI for factual information.
+- Include a simple checklist for evaluating AI answers.
+- End with a strong conclusion for the ebook.
+- Avoid making the conclusion too generic.
+- Avoid treating AI as only dangerous or only perfect.
+
+The final message should be balanced: AI is powerful and useful, but human judgment is still necessary.
+```
+
+---
+
+## Prompt 07 — Expansão dos capítulos
+
+```text
+Review the chapter below and expand each subtitle section by approximately 25%.
+
+Rules:
+- Keep the original meaning.
+- Do not add unnecessary filler.
+- Improve clarity and flow.
+- Keep the language simple and natural.
+- Add examples only when they make the explanation better.
+- Avoid making the text too repetitive.
+- Maintain the same chapter structure and subtitle format.
+- Keep the tone consistent with a short educational ebook.
+- Do not make the chapter feel like an academic article.
+
+Text to expand:
+[PASTE THE CHAPTER HERE]
+```
+
+---
+
+## Prompt 08 — Revisão textual
+
+```text
+Review the ebook text below.
+
+Rules:
+- Improve grammar and clarity.
+- Keep the language simple.
+- Keep the tone educational and accessible.
+- Do not make the text too formal.
+- Do not change the main ideas.
+- Improve sentence flow.
+- Reduce repetition if necessary.
+- Keep the chapter titles and subtitles organized.
+- Preserve the original purpose of the ebook.
+- Make the text sound natural for an English-language ebook.
+
+Text to review:
+[PASTE THE TEXT HERE]
+```
+
+---
+
+## Prompt 09 — Criação da capa
+
+```text
+Create a professional and creative ebook cover for a book titled:
+
+“AI-lucination: Between Answers and Illusions”
+
+Author:
+“Enzo C. O. Bittencourt”
+
+Concept:
+The cover should represent the idea of artificial intelligence creating answers that look real, but may be illusions.
+
+Visual style:
+- Futuristic
+- Technological
+- Mysterious
+- Modern nonfiction ebook cover
+- Dark background
+- Neon blue and purple tones
+- Digital fragments, circuits, holographic elements, or a humanoid AI face
+- A visual contrast between truth and illusion
+
+Text requirements:
+- The title must be large and readable.
+- The subtitle must appear below the title.
+- The author name must appear at the bottom.
+- Do not add extra text.
+
+The final image should look polished, modern, and suitable for a technology ebook.
+```
