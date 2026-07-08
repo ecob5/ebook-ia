@@ -34,12 +34,14 @@ O projeto explica, de forma simples e acessível, como ferramentas de IA podem g
 
 | Ação | Prompt |
 | :--: | ------ |
-| Título | Criar ideias de título para um e-book sobre Inteligência Artificial, usando um trocadilho com AI e hallucination. |
-| Estrutura | Criar uma estrutura curta para um e-book sobre alucinações de IA, com capítulos simples e explicativos. |
-| Capítulo 1 | Escrever um capítulo explicando o que é uma alucinação de IA, usando linguagem simples e exemplos práticos. |
-| Capítulo 2 | Explicar o que acontece por trás das alucinações de IA, mostrando como a IA trabalha com padrões e previsão de palavras. |
-| Capítulo 3 | Criar um capítulo final com dicas para usar IA com pensamento crítico e responsabilidade. |
-| Capa | Criar uma capa criativa e tecnológica para o e-book **AI-lucination: Between Answers and Illusions**. |
+| Definição do título | Crie sugestões de título para um e-book sobre Inteligência Artificial, com foco no fenômeno das alucinações de IA. O título deve ser em inglês, criativo, curto, memorável e usar um trocadilho entre “AI” e “hallucination”. Evite títulos longos, genéricos ou com linguagem muito acadêmica. |
+| Estrutura do e-book | Estruture um e-book curto sobre alucinações de IA. O conteúdo deve ter poucos capítulos, subtítulos internos e uma progressão lógica: conceito, explicação do problema e conclusão prática. Evite uma estrutura muito extensa, pois o projeto deve ser simples e direto. |
+| Regras gerais de escrita | Escreva os textos com linguagem simples, clara e acessível. Mantenha o conteúdo enxuto, mas sem deixar a explicação superficial. Use exemplos práticos e evite termos técnicos sem explicação. O tom deve ser educativo, leve e compreensível para leitores iniciantes. |
+| Regras do Capítulo 1 | Escreva o capítulo “What Is an AI Hallucination?”. Explique o conceito de alucinação de IA de maneira simples. Inclua exemplos de respostas inventadas, como livros falsos, citações falsas, fontes inexistentes e informações que parecem verdadeiras, mas não são. Evite explicações muito técnicas ou longas demais. |
+| Regras do Capítulo 2 | Escreva o capítulo “Behind the Illusion”. Explique por que a IA pode gerar respostas incorretas. Aborde a ideia de previsão de palavras, padrões, preenchimento de lacunas e aparência de verdade. Evite repetir demais o conteúdo do capítulo anterior. |
+| Regras do Capítulo 3 | Escreva um capítulo final com foco em uso consciente da IA. Apresente dicas práticas para evitar cair em alucinações, como verificar informações, fazer perguntas melhores, desconfiar de respostas muito confiantes e usar IA como assistente, não como fonte absoluta de verdade. |
+| Revisão dos capítulos | Revise os capítulos para melhorar a fluidez e aumentar cada subtítulo em aproximadamente 25%, sem adicionar enrolação. Mantenha o texto natural, organizado e coerente com a proposta de um e-book curto. |
+| Prompt da capa | Crie uma capa profissional e criativa para um e-book chamado “AI-lucination: Between Answers and Illusions”. A imagem deve ter estética futurista, tecnológica e misteriosa, representando a ideia de uma IA que mistura respostas reais com ilusões. Use tons de azul, roxo, elementos digitais e composição adequada para capa de e-book. |
 
 ---
 
