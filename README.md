@@ -14,8 +14,6 @@
 
 O projeto explica, de forma simples e acessível, como ferramentas de IA podem gerar respostas falsas, imprecisas ou inventadas que parecem verdadeiras. A proposta do e-book é mostrar que a IA pode ser uma grande aliada para estudo, criatividade e produtividade, mas que ainda exige pensamento crítico e verificação humana.
 
-O conteúdo foi escrito em inglês para facilitar o uso futuro em portfólio, estudos e oportunidades internacionais.
-
 ---
 
 ## 📖 Ler o e-book
