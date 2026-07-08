@@ -30,7 +30,7 @@ O projeto explica, de forma simples e acessível, como ferramentas de IA podem g
 
 ---
 
-## 🧠 Prompts utilizados
+## 🧠 Resumo dos Prompts utilizados
 
 | Ação | Prompt |
 | :--: | ------ |
